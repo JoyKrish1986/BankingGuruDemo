@@ -1,0 +1,6 @@
+com\Banking\TestCases\TC2_Add_Customer.class
+BussinessFunction\AddCustomer.class
+BussinessFunction\Application_Login.class
+com\Banking\PageObject\LoginPage.class
+com\Banking\TestCases\TestCase_Login_Verification.class
+com\Banking\PageObject\Customer_Add.class

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 88.478 s <<< FAILURE! - in TestSuite
+com.Banking.TestCases.TC2_Add_Customer.AddCustomer  Time elapsed: 21.607 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Banking.TestCases.TC2_Add_Customer.AddCustomer(TC2_Add_Customer.java:23)
+
